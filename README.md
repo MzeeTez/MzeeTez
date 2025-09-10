@@ -101,13 +101,13 @@
 
 ### 🌎 Connect with Me
 <div align="left">
-  <a href="[www.linkedin.com/in/aditya-kumar-singh-20061728b]">
+  <a href="www.linkedin.com/in/aditya-kumar-singh-20061728b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
   </a>
-  <a href="[https://www.instagram.com/__adiiiiii_1/]">
+  <a href="https://www.instagram.com/__adiiiiii_1/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="Instagram" />
   </a>
-  <a href="[https://github.com/MzeeTez]">
+  <a href="https://github.com/MzeeTez">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" height="30" alt="GitHub" />
   </a>
 </div>
